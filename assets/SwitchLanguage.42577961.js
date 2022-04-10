@@ -1,0 +1,2 @@
+import{t as l,A as r,N as u,B as m,H as o,x as p,F as d,r as c,o as f,I as i,D as v,v as b}from"./vendor.9af193c9.js";import{a as x}from"./index.b58f9c02.js";const V=l({setup(C){const{t:a}=r({messages:{en:{btn:"en"},"zh-CN":{btn:"zh-CN"}}}),t=u(!0);return(_,e)=>{const s=c("el-button");return f(),m(d,null,[o(x,{modelValue:t.value,"onUpdate:modelValue":e[0]||(e[0]=n=>t.value=n)},null,8,["modelValue"]),o(s,{onClick:e[1]||(e[1]=n=>t.value=!0)},{default:p(()=>[i(v(b(a)("btn")),1)]),_:1})],64)}}});export{V as default};
+//# sourceMappingURL=SwitchLanguage.42577961.js.map
