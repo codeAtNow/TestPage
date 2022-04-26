@@ -1,0 +1,2 @@
+import{C as t}from"./index.e0a64e0d.js";import{t as o,c as s,o as c}from"./vendor.ff752aea.js";const l=o({setup(r){const e="https://coldcdn.com/api/cdn/v5ynur/ipfs/QmPTVdcP2HBcKcDZhV8TA4zjjdG65DW8Nc4rEFtM2Hr7nh";return(a,n)=>(c(),s(t,{cover:e,chain:"eth",name:"My Art",price:"0.00021 ETH",url:"https://google.com/#","logo-url":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eD7644C69416d67B522e20bC294A9a9B405B31/logo.png"}))}});export{l as default};
+//# sourceMappingURL=Canvas.4dda927b.js.map
